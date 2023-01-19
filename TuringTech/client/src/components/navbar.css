@@ -1,0 +1,28 @@
+.navbar-style {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-style {
+    height: 40px;
+    margin: 2%;
+}
+
+.logout-btn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    background: #5742de;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 2%;
+}
+
+.logout-btn:hover {
+    background: #5742ded5;
+    color: #ffffff;
+}

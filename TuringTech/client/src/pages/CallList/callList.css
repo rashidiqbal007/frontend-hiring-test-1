@@ -1,0 +1,47 @@
+.main{
+    display: flex;
+    font-family: "Lato", Arial, sans-serif;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+th{
+    padding: 1.25rem!important;
+    background-color:rgba(0, 0, 0, 0.091)!important
+}
+td{
+    padding: 1.25rem!important;
+    background-color:rgb(255, 255, 255)!important
+}
+table{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 14% !important;
+}
+.btn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    background: #5742de;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #5742ded5;
+   
+   color: #ffffff;
+  }
+  .notes-input{
+    min-width: 100%;
+    min-height: 8rem;
+  }
